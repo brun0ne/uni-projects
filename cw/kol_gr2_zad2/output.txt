@@ -1,0 +1,5 @@
+Kierunek Informatyka
+Lista studentów, którzy uzyskali zaliczenie
+Lp    Numer_indeksu   Nazwisko   Imie       Sr_ocena
+1     654321          Adam       Kowalski   5.00
+2     123456          Jan        Nowak      4.50

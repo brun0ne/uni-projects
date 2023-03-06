@@ -1,0 +1,4 @@
+Wykaz towarów nr 02/02
+Nazwa_towaru    Ilosc      Cena      
+Myszka          10         10        
+Cos             10         10        

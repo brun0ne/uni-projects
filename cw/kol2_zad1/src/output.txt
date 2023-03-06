@@ -1,0 +1,30 @@
+---- Wysw alfabetyczne wg tytulow wszystkich ksiazek (bez powtorzen):
+Tytul: "Bajka", Wydawnictwo: "Bajki", Rok wydania: 2003, Autor: Swiety Mikolaj
+Tytul: "Dziady", Wydawnictwo: "Lektury", Rok wydania: 1895, Autor: Mickiewicz Adam
+Tytul: "Moja Druga Ksiazka", Wydawnictwo: "Dalej Nikt", Rok wydania: 2050, Autor: Jasiowski Jas
+Tytul: "Moja Pierwsza Ksiazka", Wydawnictwo: "Nikt", Rok wydania: 2050, Autor: Jasiowski Jas
+Tytul: "Pan Tadeusz", Wydawnictwo: "Lektury", Rok wydania: 1860, Autor: Mickiewicz Adam
+
+---- Wysw alfabetyczne wg autorow i tytulow wszystkich ksiazek (bez powtorzen):
+---- (po nazwisku, gdy takie same: po imieniu, gdy takie same: po tytule)
+Tytul: "Moja Druga Ksiazka", Wydawnictwo: "Dalej Nikt", Rok wydania: 2050, Autor: Jasiowski Jas
+Tytul: "Moja Pierwsza Ksiazka", Wydawnictwo: "Nikt", Rok wydania: 2050, Autor: Jasiowski Jas
+Tytul: "Dziady", Wydawnictwo: "Lektury", Rok wydania: 1895, Autor: Mickiewicz Adam
+Tytul: "Pan Tadeusz", Wydawnictwo: "Lektury", Rok wydania: 1860, Autor: Mickiewicz Adam
+Tytul: "Bajka", Wydawnictwo: "Bajki", Rok wydania: 2003, Autor: Swiety Mikolaj
+
+---- Wysw alfabetyczne wg tytulow ksiazek Mickiewicza (bez powtorzen):
+Tytul: "Dziady", Wydawnictwo: "Lektury", Rok wydania: 1895, Autor: Mickiewicz Adam
+Tytul: "Pan Tadeusz", Wydawnictwo: "Lektury", Rok wydania: 1860, Autor: Mickiewicz Adam
+
+---- Wysw alfabetyczne wszystkich autorow (bez powtorzen):
+---- (po nazwisku, gdy takie same: po imieniu)
+Jasiowski Jas
+Mickiewicz Adam
+Swiety Mikolaj
+
+---- Wysw wszystkich ksiazek wydawnictwa Lektury wg roku wydania (od najnowszych):
+Tytul: "Dziady", Wydawnictwo: "Lektury", Rok wydania: 1895, Autor: Mickiewicz Adam
+Tytul: "Pan Tadeusz", Wydawnictwo: "Lektury", Rok wydania: 1860, Autor: Mickiewicz Adam
+
+Process finished with exit code 0

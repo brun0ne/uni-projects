@@ -1,0 +1,6 @@
+ID: 0 | kwota: 0,00 | karta: <brak> | kwota do zapłaty: 0,00
+ID: 1 | kwota: 2,00 | karta: <brak> | kwota do zapłaty: 2,00
+ID: 2 | kwota: 10,00 | karta (class KartaSeniora): [numer: 1, nazwisko: Kowalski] | kwota do zapłaty: 8,50
+ID: 3 | kwota: 10,00 | karta (class KartaStudenta): [numer: 0, nazwisko: <nie podano>] | kwota do zapłaty: 9,00
+ID: 4 | kwota: 15,00 | karta (class KartaStudenta): [numer: 8, nazwisko: ktos] | kwota do zapłaty: 13,50
+ID: 5 | kwota: 15,00 | karta (class KartaStudenta): [numer: 8, nazwisko: ktos] | kwota do zapłaty: 13,50
